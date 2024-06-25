@@ -19,8 +19,10 @@ kotlin {
     mingwX64() // Win-what ?!?
     tvosArm64()
     tvosX64()
+    tvosSimulatorArm64()
     watchosArm64()
     watchosX64()
+    watchosSimulatorArm64()
 
     applyDefaultHierarchyTemplate()
 
